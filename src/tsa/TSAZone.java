@@ -8,13 +8,16 @@ public class TSAZone {
 	List<TSAPass> passHere;
 	int maxQueueLength;
 	int currentQueueLength;
+	double TeamsOpen;
+	int PassServed;
 	
-	public TSAZone(String PassedName){
+	public TSAZone(String PassedName, double Teams){
 		name = PassedName;
 		passHere = new LinkedList<>();
 		maxQueueLength = 0;
 		currentQueueLength = 0;
-		
+		TeamsOpen = Teams;
+		PassServed =0;
 	}
 
 	
@@ -32,6 +35,18 @@ public class TSAZone {
 	public void setName(String name) 
 	{
 		this.name = name;
+	}
+	
+	public List<TSAPass> getPassHere(){
+		return passHere;
+	}
+	
+	public void addPassToTotal(){
+		PassServed++;
+	}
+	
+	public int getPassServed(){
+		return PassServed;
 	}
 
 }
