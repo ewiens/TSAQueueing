@@ -1,0 +1,60 @@
+Total PassengersPrecheck Average TimeRegular Average Time
+           2024      1340639.0      2566621.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1981       642927.0      2183615.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1935       478992.0      2768396.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1952       850605.0      2333712.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1970       848963.0      2420122.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1951       947071.0      2613875.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1965       858822.0      1920367.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1947      1022629.0      2085556.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1971       683851.0      2535895.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1988       854770.0      2668125.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1930       751081.0      2392178.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1954       772644.0      2538868.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1980      1093067.0      2563082.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1914       611056.0      2448147.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1965      1079599.0      2620531.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1922       713902.0      1399975.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           2000      1509850.0      2143341.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1948       790214.0      2382154.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1955       730248.0      2554768.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1925       537425.0      2113374.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1988      1144234.0      2354572.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1961      1136457.0      2390689.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1968      1032460.0      2186498.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1971       878890.0      1746013.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1950       601852.0      2427935.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1974      1099971.0      1673411.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1956       596622.0      2883279.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1986       754091.0      2541638.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1948       726830.0      2548785.0
+Total PassengersPrecheck Average TimeRegular Average Time
+           1909       783633.0      2531345.0
